@@ -6,20 +6,19 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
+</div>
 
 
 <h1 align="center">👋hey Devs👋</h1>
 
 
 
-<h3 align="center">👩‍💻sobre mim</h3>
+<h3 align="center">👩‍👩‍💻sobre mim👩‍</h3>
 
 
-
-<p align="left">Eu sou de Osasco São-Paulo<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou aprendendo front-end<br>- ⚡ No meu tempo livre eu jogo os meus jogos favoritos no computador e aprenda mais e mais sobre front-end </p>
-
+<p align="left">Eu sou de Osasco São-Paulo<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou aprendendo Front-End...<br>- ⚡ No meu tempo livre eu jogo no computador e aaprende mais sobre Front- end...</p>
 
 
 <h3 align="center">🛠 Linguagem que eu estou usando no momento</h3>
@@ -34,13 +33,10 @@
 
 
 
-<h3 align="center">🔥Meu Status🔥:</h3>
-
-
-
-<br clear="both">
+<h3 align="center">🔥   Meu Status :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=H&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueSouza250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
 
