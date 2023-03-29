@@ -12,7 +12,7 @@
 <p align="left">Eu sou de Osasco São-Paulo<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou aprendendo Front-End...<br>- ⚡ No meu tempo livre eu gosto de jogar no computador e aprender mais sobre Front- end...</p>
 
 
-<h3 align="center">🛠 Linguagem que eu estou usando no momento</h3>
+<h3 align="center">🛠 Linguagem que eu estou usando no momento🛠</h3>
 
 
 
