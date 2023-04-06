@@ -1,35 +1,38 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h1 align="center">👋hey Devs Sejam bem-vindos👋</h1>
+###
 
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
+###
 
-<h3 align="center">👩‍👩‍💻sobre mim👩‍</h3>
+<h2 align="left">About me</h2>
 
+###
 
-<p align="left">Eu sou de Osasco São-Paulo<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou aprendendo Front-End...<br>- ⚡ No meu tempo livre eu gosto de jogar no computador e aprender mais sobre Front- end...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+###
 
-<h3 align="center">🛠 Linguagem que eu estou usando no momento🛠</h3>
+<h2 align="left">I code with</h2>
 
+###
 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
 </div>
 
-
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueSouza250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueSouza250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 
-<i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
- <img src="https://github.com/HenriqueSouza250/HenriqueSouza250/blob/main/Fire-Pixel.gif" width="220">
+###
 
-##
-  
+<img src="https://raw.githubusercontent.com/H/H/blob/output/snake.svg" alt="Snake animation" />
+
+###
