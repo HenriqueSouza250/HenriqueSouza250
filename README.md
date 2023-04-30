@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Eu sou de ....<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou cursando Analise de sistemas e desnvolvimentos de programas...<br>- ⚡ No meu tempo livre eu procuro aprender mais sobre programação e estudar mais sobre as materias do curso...</p>
+<p align="left">Eu sou de  Osasco São Paulo....<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou cursando Analise de sistemas e desnvolvimentos de programas...<br>- ⚡ No meu tempo livre eu procuro aprender mais sobre programação e estudar mais sobre as materias do curso...</p>
 
 ###
 
