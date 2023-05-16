@@ -1,20 +1,18 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-<h1 align="center">👋hey Devs my name is Henrique Leite👋</h1>
+<h1 align="center">👋hey Devs my name is Henrique 👋</h1>
 
 ###
 
-<h3 align="center">👩‍💻  sobre mim</h3>
+<h2 align="center">👩‍💻  sobre mim</h2>
 
 ###
 
-<p align="left">Eu sou de  Osasco São Paulo....<br><br>- 🔭 Estou trabalhando como...<br>- 📚 Atualmente estou cursando Analise e desenvolvimentos de Sistemas...<br>- ⚡ No meu tempo livre eu procuro aprender mais sobre programação e estudar mais sobre as materias do curso...</p>
+<br clear="both">
+
+<p align="left">Eu sou de  Osasco São Paulo....<br><br>- 🔭 Estou trabalhando como...<br><br>-📚 Atualmente estou cursando Analise e desenvolvimentos de Sistemas...<br><br>- ⚡ No meu tempo livre eu procuro aprender mais sobre programação e estudar mais sobre as materias do curso...</p></p>
 
 ###
 
-<h3 align="left">🛠 Linguagem que eu estou usando no momento</h3>
+<h2 align="left">Eu codifco com :</h2>
 
 ###
 
